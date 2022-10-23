@@ -1,7 +1,6 @@
 # resources-RGK
 
 # Awesome NLP Projects
-[![Awesome]
 
 > This is a curated list of projects directly connected or useful for Natural Language Processing (NLP)
 which make a geek smile for they exist.
