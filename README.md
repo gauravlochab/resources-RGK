@@ -1,11 +1,11 @@
 # resources-RGK
 
 # Awesome NLP Projects
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome]
 
 > This is a curated list of projects directly connected or useful for Natural Language Processing (NLP)
 which make a geek smile for they exist.
-> Inspired by [Joseph Misiti's github project](https://github.com/josephmisiti/awesome-machine-learning#python)
+
 
 Related Lists:
 
