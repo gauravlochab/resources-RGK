@@ -222,6 +222,9 @@ Create your own chatbot in Go, Java, JavaScript, Perl or Python.
 - Illinois Projects	List
 . of software from Illinois Cognitive Computation Group	[link](https://cogcomp.cs.illinois.edu/page/software/)
 
+##youtube
+MLOPS: https://www.youtube.com/watch?v=tYHIhRpuGB8&ab_channel=PragmaticAILabs
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
