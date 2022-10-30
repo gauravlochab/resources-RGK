@@ -1,4 +1,4 @@
-# resources-RGK
+# Resources-RGK
 
 # Awesome NLP Projects
 
@@ -222,7 +222,7 @@ Create your own chatbot in Go, Java, JavaScript, Perl or Python.
 - Illinois Projects	List
 . of software from Illinois Cognitive Computation Group	[link](https://cogcomp.cs.illinois.edu/page/software/)
 
-## youtube
+## Youtube
 - [MLOPS](https://www.youtube.com/watch?v=tYHIhRpuGB8&ab_channel=PragmaticAILabs)
 - [text classficaition NLP](https://www.youtube.com/watch?v=YkK_m2Ujq5Q&ab_channel=SmithaKolan-MachineLearningEngineer)
 
