@@ -224,6 +224,7 @@ Create your own chatbot in Go, Java, JavaScript, Perl or Python.
 
 ## youtube
 - [MLOPS](https://www.youtube.com/watch?v=tYHIhRpuGB8&ab_channel=PragmaticAILabs)
+- [text classficaition NLP](https://www.youtube.com/watch?v=YkK_m2Ujq5Q&ab_channel=SmithaKolan-MachineLearningEngineer)
 
 ## Contribute
 
