@@ -226,8 +226,6 @@ Create your own chatbot in Go, Java, JavaScript, Perl or Python.
 - [MLOPS](https://www.youtube.com/watch?v=tYHIhRpuGB8&ab_channel=PragmaticAILabs)
 - [text classficaition NLP](https://www.youtube.com/watch?v=YkK_m2Ujq5Q&ab_channel=SmithaKolan-MachineLearningEngineer)
 
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
+## Computer Vision
+- [Yolox MMDET](https://debuggercafe.com/custom-dataset-training-using-mmdetection/)
 
