@@ -242,6 +242,6 @@ Create your own chatbot in Go, Java, JavaScript, Perl or Python.
 
 ## Deep learning interview Topic wise
 
-###RNN
+### RNN
 - [CampusX intro RNN](https://www.youtube.com/watch?v=4KpRP-YUw6c&ab_channel=CampusX)
 ## NLP interview Topic wise
