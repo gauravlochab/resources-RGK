@@ -229,3 +229,17 @@ Create your own chatbot in Go, Java, JavaScript, Perl or Python.
 ## Computer Vision
 - [Yolox MMDET](https://debuggercafe.com/custom-dataset-training-using-mmdetection/)
 
+## Python basics
+- BOOK, YT tutorial of BOOK
+- CampusX YT Python
+- Question to Solve Python
+
+## Python DSA
+
+## Leet code DSA 
+
+## Machine learning interview Topic wise
+
+## Deep learning interview Topic wise
+
+## NLP interview Topic wise
